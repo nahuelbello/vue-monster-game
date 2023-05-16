@@ -1,6 +1,5 @@
 # Vue - Monster Game
 
----
 
 This is my first mini-project using Vue.js.
 
